@@ -1,9 +1,3 @@
-Ex.
+`![](https://example-redirect-to-next-image-from-api-routes.vercel.app/api/patterns/cat/640?q=75)`
 
-```html
-<img src="/api/[brand]/[id]/[width]?q=[quality]" />
-```
-
-redirect to: 
-`/_next/image?url=%2Fstatic%2F[brand]%2F[id].png&w=[normalized width]&q=[quality]`
-
+![](https://example-redirect-to-next-image-from-api-routes.vercel.app/api/patterns/cat/640?q=75)
