@@ -1,4 +1,6 @@
 {
+  "name": "example-redirect-to-next-image-from-api-routes",
+  "author": "hrdtbs",
   "private": true,
   "scripts": {
     "dev": "next",
